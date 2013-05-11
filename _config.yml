@@ -1,2 +1,9 @@
-name: Your New Jekyll Site
+name: 某科学的弹幕委员会
 pygments: true
+
+# configuration required for some pages
+domain: bbcallen.github.com
+title: 某科学的弹幕委员会
+author: bbcallen
+email: bbcallen@gmail.com
+
