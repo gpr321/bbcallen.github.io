@@ -7,3 +7,6 @@ title: 某科学的弹幕委员会
 author: bbcallen
 email: bbcallen@gmail.com
 
+# global config
+my_path:
+  down_biliplayer: "/downloads/app/biliplayer.apk"

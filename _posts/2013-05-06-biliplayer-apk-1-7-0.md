@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '安卓客户端 1.7.0'
+title: 'v1.7.0'
 date: 2013-05-06 00:00:00
 tags: ['apk']
 ---
