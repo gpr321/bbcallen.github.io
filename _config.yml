@@ -1,5 +1,6 @@
 name: 某科学的弹幕委员会
 pygments: true
+markdown: rdiscount
 
 # configuration required for some pages
 domain: bbcallen.github.com
